@@ -7,3 +7,7 @@ This week's task:
 
 
 1. Fetching Data from an API and Displaying It
+
+
+
+![image](https://github.com/user-attachments/assets/83ff1000-0c2e-4b42-b2ae-9980a84c25cd)
